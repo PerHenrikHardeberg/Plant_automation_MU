@@ -92,7 +92,7 @@ dmin_mm = 2*rmin*1000
 
 d = 140e-3;% m
 r = d/2; % m
-A1 = pi*r^2; % m^2
+A1 = pi*r^2 % m^2
 A2 = A1/2; %m^2 rod side area
 
 % Retracting, equal for all cases because flowrate valve will be open
